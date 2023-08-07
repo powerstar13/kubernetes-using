@@ -1,2 +1,2 @@
 resources:
-  - https://github.com/<Github Profile명>/management-repository//argo-cd?ref=main
+  - https://github.com/powerstar13/kubernetes-using//12-gitops-argocd/management-repository/argo-cd?ref=main
