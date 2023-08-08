@@ -9,8 +9,8 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: guestbook
-    repoURL: git@github.com:<Github Profile명>/service-repository.git
+    path: 12-gitops-argocd/service-repository/guestbook
+    repoURL: git@github.com:powerstar13/kubernetes-using.git
     targetRevision: HEAD
   syncPolicy:
     automated:
